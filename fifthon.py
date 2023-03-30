@@ -104,7 +104,7 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ Welcome to Source lucithon
+**☆ Welcome to Source TNT
 ☆ Version : 2.6
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
