@@ -257,7 +257,7 @@ async def _(event):
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@picth0n
+- By ↣@PICTH0N
 ┗━━━━━┛
 ●━━━━━━━━●
 
@@ -325,7 +325,7 @@ async def _(event):
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@picth0n
+- By ↣@PICTH0N
 ┗━━━━━┛
 ●━━━━━━━━●
 
@@ -367,7 +367,7 @@ async def _(event):
 ↣ (@{username})
 ┗━━━━━┛
 ┏━━━━━┓
-- By ↣@picth0n
+- By ↣@PICTH0N
 ┗━━━━━┛
 ●━━━━━━━━●
 
