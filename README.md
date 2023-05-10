@@ -1,4 +1,4 @@
-### FOR : [picthon](https://t.me/picth0n) ###
+### FOR : [PICTHON](https://t.me/picth0n) ###
 
 ### FOR : [حيدر](https://t.me/a_t_9) ###
 
